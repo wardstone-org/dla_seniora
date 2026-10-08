@@ -4,14 +4,14 @@ plugins {
 }
 
 android {
-    namespace = "com.example.dla_seniora"
+    namespace = "com.wardstone.dla_seniora"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.dla_seniora"
-        minSdk = 28
+        applicationId = "com.wardstone.dla_seniora"
+        minSdk = 24
         targetSdk = 37
         versionCode = 1
         versionName = "1.0"

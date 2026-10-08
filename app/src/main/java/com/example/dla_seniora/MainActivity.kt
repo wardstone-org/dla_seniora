@@ -1,4 +1,4 @@
-package com.example.dla_seniora
+package com.wardstone.dla_seniora
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
