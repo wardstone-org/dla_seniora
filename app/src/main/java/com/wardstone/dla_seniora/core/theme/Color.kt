@@ -1,4 +1,4 @@
-package com.example.dla_seniora.ui.theme
+package com.wardstone.dla_seniora.core.theme
 
 import androidx.compose.ui.graphics.Color
 
